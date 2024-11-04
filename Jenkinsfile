@@ -20,5 +20,5 @@ pipeline{
           sh "python /app/temperature.py"
         }
       }
-
+    }
 }
